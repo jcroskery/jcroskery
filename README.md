@@ -1,6 +1,5 @@
 Hi, I'm Justus Croskery. 
-I'm an incoming University of Waterloo Mathematics student with a passion for music, swimming, and coding.
-I also enjoy photography; my profile features a picture of a pigeon I met last summer. 
+I'm a Computer Science student ('26) at the University of Toronto with a passion for music, sports, and coding.
 
 Languages:
 - Rust (my favorite!)
