@@ -1,23 +1,6 @@
 Hi, I'm Justus Croskery. 
 I'm a Computer Science student ('26) at the University of Toronto with a passion for music, sports, and coding.
 
-Languages:
-- Rust (my favorite!)
-- Javascript
-- C++
-- C
-- PHP
-- Java
-
-Markup Languages: 
-- HTML
-- CSS
-
-My favorite projects include:
-- olmmcc.tk
-- rpr
-- CCC
-
 ## Favourite Technologies
 ![Rust](https://img.shields.io/badge/Rust-316192?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-14354C?style=for-the-badge&logo=linux&logoColor=white)
